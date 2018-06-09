@@ -1,0 +1,7 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+#  backup folders
+backup
+
+# OCad backup files
+*.autosave
